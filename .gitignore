@@ -139,3 +139,6 @@ ENV/
 # Rope project settings
 .ropeproject
 
+/.idea/
+/MANIFEST
+*.iml

@@ -1,8 +1,8 @@
-# str2bool v.1.1
+# str2bool v.1.2
 
 ## About
 Convert string to boolean.
-Library recognizes "yes", "true", "y", "t", "1" as True, and "no", "false", "n", "f", "0" as False.
+Library recognizes "yes", "true", "y", "t", "1", "enabled" as True, and "no", "false", "n", "f", "0", "disabled" as False.
 Case insensitive.
 
 ## Installation
